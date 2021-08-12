@@ -1,0 +1,17 @@
+D:\Projects\Cypher\Cypher\bin\Debug\Cypher.exe.config
+D:\Projects\Cypher\Cypher\bin\Debug\Cypher.exe
+D:\Projects\Cypher\Cypher\bin\Debug\Cypher.pdb
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.csproj.AssemblyReference.cache
+D:\Projects\Cypher\Cypher\obj\Debug\MainWindow.g.cs
+D:\Projects\Cypher\Cypher\obj\Debug\App.g.cs
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher_MarkupCompile.cache
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher_MarkupCompile.lref
+D:\Projects\Cypher\Cypher\obj\Debug\MainWindow.baml
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.g.resources
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.Properties.Resources.resources
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.csproj.GenerateResource.cache
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.csproj.CoreCompileInputs.cache
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.exe
+D:\Projects\Cypher\Cypher\obj\Debug\Cypher.pdb
+D:\Projects\Cypher\Cypher\obj\Debug\Splash.g.cs
+D:\Projects\Cypher\Cypher\obj\Debug\Splash.baml

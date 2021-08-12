@@ -1,0 +1,15 @@
+D:\Projects\Cypher\Cypher\bin\Release\Cypher.exe.config
+D:\Projects\Cypher\Cypher\bin\Release\Cypher.exe
+D:\Projects\Cypher\Cypher\bin\Release\Cypher.pdb
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.csproj.AssemblyReference.cache
+D:\Projects\Cypher\Cypher\obj\Release\MainWindow.g.cs
+D:\Projects\Cypher\Cypher\obj\Release\App.g.cs
+D:\Projects\Cypher\Cypher\obj\Release\Cypher_MarkupCompile.cache
+D:\Projects\Cypher\Cypher\obj\Release\Cypher_MarkupCompile.lref
+D:\Projects\Cypher\Cypher\obj\Release\MainWindow.baml
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.g.resources
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.Properties.Resources.resources
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.csproj.GenerateResource.cache
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.csproj.CoreCompileInputs.cache
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.exe
+D:\Projects\Cypher\Cypher\obj\Release\Cypher.pdb
